@@ -7,6 +7,7 @@ import {
     buttonDarkMode,
     buttonLightMode,
     buttonPlay,
+    buttonPlay2,
     buttonStop,
     buttonPlus,
     buttonMinus,
@@ -33,6 +34,7 @@ const timer = Timer({
 })
 buttonEvents({
     buttonPlay,
+    buttonPlay2,
     buttonStop,
     buttonPlus,
     buttonMinus,

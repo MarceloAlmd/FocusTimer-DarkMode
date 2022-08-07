@@ -1,6 +1,7 @@
 const buttonLightMode = document.querySelector('.lightmode')
 const buttonDarkMode = document.querySelector('.darkmode')
 const buttonPlay = document.querySelector('.play')
+const buttonPlay2 = document.querySelector('.play2')
 const buttonStop = document.querySelector('.stop')
 const buttonPlus = document.querySelector('.plus')
 const buttonMinus = document.querySelector('.minus')
@@ -25,6 +26,7 @@ export {
     buttonDarkMode,
     buttonLightMode,
     buttonPlay,
+    buttonPlay2,
     buttonStop,
     buttonPlus,
     buttonMinus,
